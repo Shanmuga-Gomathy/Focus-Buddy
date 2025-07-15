@@ -5,17 +5,16 @@
 ---
 
 ## 🌟 What is FocusBuddy?
-FocusBuddy is a simple, modern, and 100% frontend-only dashboard to help you study or work without distractions. It brings together a focus timer, network awareness, relaxing break tools, and a curated set of programming study blogs—all in one clean interface. No logins, no backend, just open and focus!
+FocusBuddy is a simple, modern, and 100% frontend-only dashboard to help you study or work without distractions. It brings together a focus timer, network awareness, relaxing break tools, and a curated set of public study blogs—all in one clean interface. No logins, no backend, just open and focus!
 
 ---
 
 ## ✨ Features
-- **Sticky Focus Timer** (10-minute sessions): Start, pause, and reset your focus session from a minimal top navbar.
+- **Focus Timer** (10-minute sessions): Start, pause, and reset your focus session from the top of the dashboard.
 - **Network Status Indicator**: Instantly see if your connection is strong, weak, or offline, with a colored dot and reconnect notification.
-- **Study Blog Websites**: One-click access to programming-friendly study blogs (MDN, freeCodeCamp, GeeksforGeeks, etc.) that work in the app.
+- **Study Blog Websites**: One-click access to public, distraction-free study blogs (Wikipedia, Project Gutenberg, etc.) that work in the app.
 - **Break Animation**: A soothing animated circle to help you relax during breaks.
-- **Paint Canvas**: Doodle or sketch during your break—creativity helps you recharge!
-- **Tab Switch Warning**: Get a gentle reminder if you switch tabs or minimize the window.
+- **Paint Canvas**: Doodle or sketch during your break—click "Expand" to open a large, centered dialog with a heading and controls. The entire white area is paintable edge-to-edge.
 - **Timer Visibility Detection**: If you scroll away from the timer, you'll get a subtle nudge to return.
 - **Responsive, distraction-free UI**: Works great on desktop and mobile.
 
@@ -32,7 +31,7 @@ FocusBuddy is a simple, modern, and 100% frontend-only dashboard to help you stu
 ### 3. **Canvas API**
 - **How it's used:**
   - For the break animation: Draws a relaxing animated circle.
-  - For the paint canvas: Lets you draw/doodle with your mouse or finger.
+  - For the paint canvas: Lets you draw/doodle with your mouse or finger. The canvas in the modal dialog is fully paintable, edge-to-edge.
 
 ---
 
@@ -46,4 +45,4 @@ FocusBuddy is a simple, modern, and 100% frontend-only dashboard to help you stu
 ## 👩‍💻 Author
 **Shanmuga Gomathy**
 
-If you found this dashboard helpful or have suggestions, feel free to reach out or fork the project. Happy focusing! 🎯
+
